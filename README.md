@@ -1,5 +1,7 @@
 # README #
 
+##If there is any infringement, please contact us to delete it.##
+
 This document details how to get it up and running on your computer and start modifying the code!
 
 ### What license is the UI system shipped under? ###
